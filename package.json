@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HungDuyVu/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "learn"
+  ],
+  "author": "hungvu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HungDuyVu/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/HungDuyVu/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
